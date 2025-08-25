@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Muzakir Ahamed",
+      "email": "muzakir@email.com",
+      "phoneNumber": 9876543456,
+      "id": 1
+    },
+    {
+      "name": "Michael",
+      "email": "mike.mj@email.com",
+      "phoneNumber": 9876543456,
+      "id": 2
+    },
+    {
+      "name": "Michael",
+      "email": "mike.mj@email.com",
+      "phoneNumber": 9876543456,
+      "id": 3
+    },
+    {
+      "name": "Michael",
+      "email": "mike.mj@email.com",
+      "phoneNumber": 9876543456,
+      "id": 4
+    },
+    {
+      "name": "Michael",
+      "email": "mike.mj@email.com",
+      "phoneNumber": 9876543456,
+      "id": 5
+    },
+    {
+      "name": "Michael",
+      "email": "mike.mj@email.com",
+      "phoneNumber": 9876543456,
+      "id": 6
+    },
+    {
+      "name": "Michael",
+      "email": "mike.mj@email.com",
+      "phoneNumber": 9876543456,
+      "id": 7
+    }
+  ]
+}
