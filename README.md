@@ -1,3 +1,5 @@
+# add this command to start the mock server
+npx json-server db.json
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
